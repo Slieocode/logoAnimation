@@ -1,0 +1,12 @@
+body{background: royalblue;text-align: center;}
+svg{
+	width:350px;
+  	margin:150px auto;
+
+}
+svg path {
+  fill: none;
+  stroke: white;
+  stroke-width: 2;	
+  stroke-dashoffset: 0;
+}
